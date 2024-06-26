@@ -1,3 +1,5 @@
 # NOTE!!
 
-*version*
+*Version*
+- Laravel 11
+- 
