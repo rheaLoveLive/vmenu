@@ -1,3 +1,3 @@
 # NOTE!!
 
-"Version"
+*version*
