@@ -1,0 +1,25 @@
+.hero {
+  background-image: url("../../public/image/heroteh.jpg");
+  place-items: unset !important;
+}
+
+.hero-text {
+  margin: 100px;
+  padding: 100px;
+}
+
+.product {
+  box-shadow: 0px -4px 6px -1px rgba(153, 153, 153, 0.75);
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
