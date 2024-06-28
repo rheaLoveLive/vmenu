@@ -95,6 +95,7 @@ const AddTrans = ({ data, categ }) => {
     });
   };
 
+  // menyimpan
   const handlePaying = () => {
     console.log(dataCart);
   };
